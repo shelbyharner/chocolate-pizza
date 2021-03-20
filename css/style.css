@@ -1,0 +1,45 @@
+body {
+  width: 960px;
+  padding: 10px;
+}
+
+#logo {
+  width: 50px;
+  float: left;
+  padding-right: 10px;
+}
+
+header div {
+  float: right;
+}
+
+h2 {
+  font-family: 'Sofia', cursive;
+  font-size: 40px;
+}
+
+header p {
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+#print-icon {
+  float: right;
+}
+
+article {
+  text-align: right;
+}
+
+main {
+  margin-top: 20px;
+  clear: both;
+}
+
+#choco-pizza {
+  width: 960px;
+}
